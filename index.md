@@ -1,3 +1,2 @@
-## COVID-19 Ensemble Model Viewer Workspace
-
-Testing to see if this works!
+# Interactive Ensemble Model Results Project
+### _A hub for various interactive model results projects. Stay tuned as this is updated and shaped!_
