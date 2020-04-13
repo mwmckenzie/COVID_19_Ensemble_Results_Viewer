@@ -3,3 +3,8 @@ ipywidgets
 nbinteract
 jupyter_contrib_nbextensions
 matplotlib
+seaborn
+pandas
+scipy
+IPython
+pickle
