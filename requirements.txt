@@ -1,11 +1,8 @@
 numpy
 ipywidgets
-nbinteract
 jupyter_contrib_nbextensions
 matplotlib
 seaborn
 pandas
-scipy
 IPython
 appmode
-sklearn
